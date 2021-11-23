@@ -5,12 +5,17 @@ contributor:
     agent_name: Stewart, Mrs Hugh
     gutenberg_agent_id: '53901'
     url: http://www.gutenberg.org/2009/agents/53901
+covers:
+- cover_type: archival
+  image_path: 66643-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Harrison, Marion Chilton
     gutenberg_agent_id: '53900'
     url: http://www.gutenberg.org/2009/agents/53900
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66643#Byliny-Book-Hero-Tales-of-Russia
 gutenberg_issued: '2021-11-01'
 identifiers:
   gutenberg: '66643'
